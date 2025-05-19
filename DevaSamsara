@@ -1,0 +1,25 @@
+{
+  "title": "deva:samsara",
+  "description": "Pairing: Gojo Satoru x Itadori Yuuji",
+  "artist": "Yomo Sue",
+  "author": "Yomo Sue",
+  "cover": "https://cdn.imgchest.com/files/7ogcbj3rz8y.jpg",
+  "chapters": {
+    "1": {
+      "title": "deva:samsara",
+      "volume": "1",
+      "groups": {
+        "Yomo Sue": "/proxy/api/imgchest/chapter/dl7peob6kyo/"
+      },
+      "last_updated": "1747620000"
+    },
+"2": {
+      "title": "deva:samsara (pixiv log version)",
+      "volume": "1",
+      "groups": {
+        "Yomo Sue": "/proxy/api/imgchest/chapter/n87wdobjb4x/"
+      },
+      "last_updated": "1747620000"
+    }
+  }
+}
