@@ -1,0 +1,33 @@
+{
+  "title": "Sensei!! Series",
+  "description": "Pairing: Gojo Satoru x Itadori Yuuji",
+  "artist": "apricot / neo",
+  "author": "apricot / neo",
+  "cover": "https://cdn.imgchest.com/files/4dc9f9e97972.jpg",
+  "chapters": {
+    "1": {
+      "title": "Sensei!!",
+      "volume": "1",
+      "groups": {
+        "apricot / neo": "/proxy/api/imgchest/chapter/n87wqbw5g7x/"
+      },
+      "last_updated": "1685218964"
+    },
+"2": {
+      "title": "HAPPY EVER AFTER",
+      "volume": "2",
+      "groups": {
+        "apricot / neo": "/proxy/api/imgchest/chapter/n87wqbwox7x/"
+      },
+      "last_updated": "1710879764"
+    },
+"3": {
+      "title": "I Want to Welcome Tomorrow With You",
+      "volume": "3",
+      "groups": {
+        "apricot / neo": "/proxy/api/imgchest/chapter/o24anlzrd7l/"
+      },
+      "last_updated": "1771014164"
+    }
+  }
+}
