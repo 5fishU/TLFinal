@@ -1,0 +1,25 @@
+{
+  "title": "Omoide wa Kimi ni Azuketoku",
+  "description": "Pairing: Gojo Satoru x Itadori Yuuji",
+  "artist": "Manimani / RDoutai",
+  "author": "Manimani / RDoutai",
+  "cover": "https://cdn.imgchest.com/files/e24b70c1649e.jpg",
+  "chapters": {
+    "1": {
+      "title": "I'll Entrust My Memories to You",
+      "volume": "1",
+      "groups": {
+        "Manimani / RDoutai": "/proxy/api/imgchest/chapter/m9yxdwxbq4q/"
+      },
+      "last_updated": "1720790085"
+    },
+"2": {
+      "title": "I'll Entrust My Memories to You Prequel",
+      "volume": "2",
+      "groups": {
+        "Manimani / RDoutai": "/proxy/api/imgchest/chapter/5xy2n9z9zyl/"
+      },
+      "last_updated": "1740748485"
+    }
+  }
+}
