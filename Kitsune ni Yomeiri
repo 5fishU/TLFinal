@@ -1,0 +1,33 @@
+{
+  "title": "Kitsune ni Yomeiri",
+  "description": "Pairing: Gojo Satoru x Itadori Yuuji",
+  "artist": "Koyadofu / Kihara",
+  "author": "Koyadofu / Kihara",
+  "cover": "https://cdn.imgchest.com/files/ee9fefc2cd7d.jpg",
+  "chapters": {
+    "1": {
+      "title": "Marriage with a Fox",
+      "volume": "1",
+      "groups": {
+        "Koyadofu / Kihara": "/proxy/api/imgchest/chapter/a846m2zdo7x/"
+      },
+      "last_updated": "1688924571"
+    },
+"2": {
+      "title": "Marriage with a Fox 2",
+      "volume": "2",
+      "groups": {
+        "Koyadofu / Kihara": "/proxy/api/imgchest/chapter/9ryddboqlyk/"
+      },
+      "last_updated": "1696268571"
+    },
+"3": {
+      "title": "Marriage with a Fox 3",
+      "volume": "3",
+      "groups": {
+        "Koyadofu / KiharaT": "/proxy/api/imgchest/chapter/qb4zboq5d4j/"
+      },
+      "last_updated": "	1727890971"
+    }
+  }
+}
