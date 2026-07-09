@@ -1,12 +1,12 @@
 {
-  "title": "TITLE",
+  "title": "JAPANESE TITLE",
   "description": "Pairing: Gojo Satoru x Itadori Yuuji",
   "artist": "CIRCLE / ARTIST",
   "author": "CIRCLE / ARTIST",
   "cover": "COVER LINK",
   "chapters": {
     "1": {
-      "title": "CHAPTER TITLE",
+      "title": "ENGLISH TITLE",
       "volume": "0",
       "groups": {
         "CIRCLE / ARTIST": "/proxy/api/imgchest/chapter/CUBARINUMBER/"
@@ -14,7 +14,7 @@
       "last_updated": "TIMESTAMP"
     },
 "2": {
-      "title": "CHAPTER TITLE",
+      "title": "ENGLISH TITLE",
       "volume": "0",
       "groups": {
         "CIRCLE / ARTIST": "/proxy/api/imgchest/chapter/CUBARINUMBER/"
@@ -22,7 +22,7 @@
       "last_updated": "TIMESTAMP"
     },
 "3": {
-      "title": "CHAPTER TITLE",
+      "title": "ENGLISH TITLE",
       "volume": "0",
       "groups": {
         "CIRCLE / ARTIST": "/proxy/api/imgchest/chapter/CUBARINUMBER/"
@@ -30,7 +30,7 @@
       "last_updated": "TIMESTAMP"
     },
 "4": {
-      "title": "CHAPTER TITLE",
+      "title": "ENGLISH TITLE",
       "volume": "0",
       "groups": {
         "CIRCLE / ARTIST": "/proxy/api/imgchest/chapter/CUBARINUMBER/"
