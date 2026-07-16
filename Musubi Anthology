@@ -1,0 +1,25 @@
+{
+  "title": "Musubi",
+  "description": "Pairing: Gojo Satoru x Itadori Yuuji",
+  "artist": "53* / Uesugi",
+  "author": "53* / Uesugi",
+  "cover": "https://cdn.imgchest.com/files/a4e64a9839ba.jpg",
+  "chapters": {
+    "1": {
+      "title": "Rone",
+      "volume": "1",
+      "groups": {
+        "53* / Uesugi": "/proxy/api/imgchest/chapter/6eyrk3z867p/"
+      },
+      "last_updated": "1717180964"
+    },
+"2": {
+      "title": "Rone 2",
+      "volume": "1",
+      "groups": {
+        "53* / Uesugi": "/proxy/api/imgchest/chapter/ej7mpjr9q7d/"
+      },
+      "last_updated": "1744051364"
+    }
+  }
+}
