@@ -1,5 +1,5 @@
 {
-  "title": "Musubi",
+  "title": "Musubi - Reprint Anthology",
   "description": "Pairing: Gojo Satoru x Itadori Yuuji",
   "artist": "53* / Uesugi",
   "author": "53* / Uesugi",
@@ -20,6 +20,14 @@
         "53* / Uesugi": "/proxy/api/imgchest/chapter/ej7mpjr9q7d/"
       },
       "last_updated": "1744051364"
+    },
+"3": {
+      "title": "Summer Box",
+      "volume": "1",
+      "groups": {
+        "53* / Uesugi": "/proxy/api/imgchest/chapter/ljyq3e86x42/"
+      },
+      "last_updated": "1786634621"
     }
   }
 }
