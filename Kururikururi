@@ -1,15 +1,47 @@
 {
-  "title": "Kururikururi Anthology",
+  "title": "Kururikururi - Reprint Anthology",
   "description": "Pairing: Gojo Satoru x Itadori Yuuji",
-  "artist": "prima*",
-  "author": "prima*",
-  "cover": "https://ecdnimg.toranoana.jp/ec/img/04/0030/95/61/040030956141-1p.jpg",
+  "artist": "Kururikururi / prima*",
+  "author": "Kururikururi / prima*",
+  "cover": "https://cdn.imgchest.com/files/543e2eb11eda.jpg",
   "chapters": {
-    "5": {
-      "title": "Soredemo Kimi wo Aishite Shimau | Even So, I'll Still Fall in Love with You",
+    "1": {
+      "title": "Don't Choose Me",
       "volume": "0",
       "groups": {
-        "prima*": "/proxy/api/imgchest/chapter/agyv93vx978/"
+        "Kururikururi / prima*": "/proxy/api/imgchest/chapter/ljyq3moln42/"
+      },
+      "last_updated": "1713793595"
+    },
+"2": {
+      "title": "Extra #1",
+      "volume": "0",
+      "groups": {
+        "Kururikururi / prima*": "/proxy/api/imgchest/chapter/ej7mqjog9yd/"
+      },
+      "last_updated": "1713793595"
+    },
+"3": {
+      "title": "Even Though I Can't Hear Your Voice Anymore",
+      "volume": "0",
+      "groups": {
+        "Kururikururi / prima*": "/proxy/api/imgchest/chapter/ljyq3mlgd42/"
+      },
+      "last_updated": "1732801595"
+    },
+"4": {
+      "title": "Extra #2",
+      "volume": "0",
+      "groups": {
+        "Kururikururi / prima*": "/proxy/api/imgchest/chapter/m9yxa5wxp4q/"
+      },
+      "last_updated": "1732801595"
+    },
+"5": {
+      "title": "Even So, I Will Still Fall in Love with You",
+      "volume": "0",
+      "groups": {
+        "Kururikururi / prima*": "/proxy/api/imgchest/chapter/agyv93vx978/"
       },
       "last_updated": "1753538535"
     },
@@ -17,7 +49,7 @@
       "title": "Extra #3",
       "volume": "0",
       "groups": {
-        "prima*": "/proxy/api/imgchest/chapter/bp455w2m245/"
+        "Kururikururi / prima*": "/proxy/api/imgchest/chapter/bp455w2m245/"
       },
       "last_updated": "1753538535"
     }
